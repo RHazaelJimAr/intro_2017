@@ -2,6 +2,6 @@
 
 main()
 {
-    cout << "Hello World!";
+    cout << "It's dangerous to go alone";
     return 0;
 }
